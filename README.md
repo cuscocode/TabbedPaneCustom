@@ -25,7 +25,7 @@
 
 Vista previa del componente:
 
-![TabbedPaneCustom en acción](captura/1.png)
+![TabbedPaneCustom en acción](capturas/1.png)
 
 ## 🚀 Requisitos
 
